@@ -1,4 +1,3 @@
-import sklearn
 import streamlit as st
 import pickle 
 pickle_in = open("heart-disease.pkl","rb")
